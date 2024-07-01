@@ -1,0 +1,6 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: WinFormsApp1, Yapılandırma: Debug Any CPU ------
+1>Yapıyı hızlandırmak için çözümleyiciler atlanıyor. Çözümleyicileri çalıştırmak için 'Oluştur' veya 'Yeniden Oluştur' komutunu çalıştırabilirsiniz.
+1>WinFormsApp1 -> C:\Users\PC\Desktop\görsel programlama\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+========== Derleme: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
+========== Derleme, 12:12 AM'de başladı ve 02,224 saniye'yi aldı ==========
